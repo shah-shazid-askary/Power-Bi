@@ -1,0 +1,201 @@
+party_id,party_name,country,ideology,founded_year,seats_held,election_votes_pct,leader_name,funding_source,active_status
+PP001,National Front,UK,Populist,1952,136,4.85,John Wilson,Self-Funded,Dissolved
+PP002,Workers Front,USA,Liberal,1917,172,25.24,Maria Brown,Private Donations,Inactive
+PP003,People's League,Japan,Conservative,1900,161,32.94,Jane Smith,Private Donations,Dissolved
+PP004,Democratic Alliance,USA,Socialist,2016,220,25.8,David Moore,Private Donations,Inactive
+PP005,Workers League,Australia,Liberal,2005,269,25.42,Sarah Smith,Union,Dissolved
+PP006,Freedom Bloc,Canada,Centrist,2001,248,23.43,Mike Davis,Self-Funded,Active
+PP007,Democratic Bloc,UK,Green,1984,134,7.66,Sarah Taylor,Union,Active
+PP008,Unity Movement,Italy,Populist,1943,8,8.51,Jane Davis,Private Donations,Inactive
+PP009,Republican Movement,Canada,Nationalist,1992,30,28.75,Lisa Garcia,Self-Funded,Inactive
+PP010,Democratic Alliance,Canada,Green,1948,236,1.99,Alex Moore,Public Funding,Active
+PP011,Green Front,India,Green,1981,215,0.02,Anna Johnson,Self-Funded,Inactive
+PP012,People's Party,Japan,Conservative,2001,274,16.99,Tom Wilson,Private Donations,Inactive
+PP013,Green Movement,USA,Populist,1971,171,18.63,John Brown,Union,Active
+PP014,Democratic Front,France,Centrist,1910,29,34.11,Mike Taylor,Corporate,Active
+PP015,Green Movement,Brazil,Liberal,1968,172,23.27,Alex Anderson,Union,Inactive
+PP016,National Bloc,Germany,Green,1985,10,15.73,Lisa Miller,Union,Active
+PP017,Democratic League,Brazil,Populist,1966,263,25.05,Sarah Taylor,Private Donations,Dissolved
+PP018,Workers Alliance,Italy,Socialist,1911,139,41.84,Maria Garcia,Corporate,Inactive
+PP019,Freedom Party,Canada,Conservative,2022,100,22.73,John Garcia,Corporate,Dissolved
+PP020,Republican Party,Italy,Socialist,1910,174,24.95,Alex Taylor,Public Funding,Inactive
+PP021,Unity Bloc,Japan,Populist,1903,131,32.12,Anna Moore,Corporate,Inactive
+PP022,Republican League,Germany,Nationalist,1981,3,40.42,Anna Anderson,Union,Inactive
+PP023,People's Bloc,USA,Socialist,2010,235,16.28,Mike Davis,Corporate,Active
+PP024,Unity Front,France,Populist,1923,195,43.98,John Wilson,Union,Dissolved
+PP025,Green Alliance,Canada,Green,1947,35,41.48,Jane Miller,Self-Funded,Dissolved
+PP026,Workers Party,Japan,Conservative,1975,198,13.43,Lisa Anderson,Corporate,Active
+PP027,Unity Front,Australia,Nationalist,1973,176,11.18,Lisa Taylor,Self-Funded,Inactive
+PP028,Workers Party,Germany,Conservative,1902,219,29.71,Alex Moore,Self-Funded,Active
+PP029,Unity League,Germany,Socialist,2011,189,40.12,Maria Anderson,Private Donations,Inactive
+PP030,Green Bloc,Italy,Conservative,1941,197,10.24,Jane Miller,Corporate,Active
+PP031,Freedom Front,Japan,Conservative,1977,6,22.36,Alex Garcia,Private Donations,Inactive
+PP032,Democratic Bloc,Canada,Populist,1924,155,22.49,Lisa Garcia,Corporate,Dissolved
+PP033,People's Party,Australia,Nationalist,1969,285,12.57,Maria Taylor,Private Donations,Dissolved
+PP034,Freedom Movement,Australia,Conservative,1907,291,19.47,Mike Taylor,Corporate,Active
+PP035,Unity Alliance,France,Liberal,2025,123,43.76,Maria Garcia,Private Donations,Inactive
+PP036,National Party,Japan,Centrist,1941,280,1.35,Maria Wilson,Corporate,Active
+PP037,Green Party,India,Centrist,1982,166,9.54,John Davis,Public Funding,Inactive
+PP038,Republican Movement,France,Nationalist,1984,222,17.58,Maria Wilson,Private Donations,Inactive
+PP039,National Front,Germany,Green,1993,54,5.67,Lisa Davis,Self-Funded,Dissolved
+PP040,National Movement,Canada,Socialist,1936,185,9.6,John Johnson,Self-Funded,Active
+PP041,Workers Bloc,UK,Populist,1985,105,43.17,Alex Wilson,Public Funding,Inactive
+PP042,Democratic Party,Germany,Populist,2001,44,14.9,Jane Brown,Public Funding,Inactive
+PP043,Freedom Alliance,Japan,Conservative,1907,77,5.15,Jane Brown,Private Donations,Inactive
+PP044,Unity Alliance,France,Liberal,2000,220,15.37,Alex Johnson,Private Donations,Inactive
+PP045,Workers Bloc,Japan,Socialist,2000,117,36.66,John Taylor,Private Donations,Active
+PP046,Republican Front,France,Liberal,1971,0,35.32,Anna Taylor,Corporate,Inactive
+PP047,Workers Front,Germany,Populist,1953,17,27.12,Sarah Davis,Private Donations,Inactive
+PP048,National Bloc,India,Conservative,1948,94,27.45,Lisa Johnson,Self-Funded,Dissolved
+PP049,Republican Movement,UK,Liberal,1926,183,19.23,Lisa Miller,Self-Funded,Dissolved
+PP050,Democratic Movement,USA,Socialist,1993,15,34.4,Alex Garcia,Corporate,Active
+PP051,People's Alliance,Italy,Conservative,1934,62,40.17,Jane Davis,Private Donations,Inactive
+PP052,Workers Alliance,India,Green,1911,133,23.37,Tom Johnson,Self-Funded,Active
+PP053,Workers Front,India,Green,2022,120,0.24,Jane Anderson,Private Donations,Inactive
+PP054,Freedom Front,Germany,Populist,2015,67,17.43,Mike Garcia,Public Funding,Active
+PP055,Freedom Alliance,UK,Liberal,1968,136,18.96,Mike Miller,Private Donations,Active
+PP056,People's League,Japan,Socialist,1972,27,28.71,Tom Garcia,Corporate,Inactive
+PP057,Workers Party,Germany,Socialist,1936,102,19.21,Lisa Smith,Union,Active
+PP058,Democratic Alliance,USA,Nationalist,1928,32,20.2,Maria Wilson,Self-Funded,Dissolved
+PP059,Freedom Bloc,Canada,Socialist,1909,110,4.04,John Taylor,Corporate,Dissolved
+PP060,National Alliance,USA,Liberal,2009,268,4.44,John Wilson,Union,Dissolved
+PP061,Freedom Front,Germany,Centrist,1984,207,43.84,Jane Johnson,Private Donations,Active
+PP062,Democratic Bloc,Germany,Populist,1990,298,13.59,Tom Wilson,Corporate,Inactive
+PP063,Freedom Alliance,Canada,Nationalist,2008,281,4.12,John Anderson,Self-Funded,Dissolved
+PP064,Democratic League,Italy,Centrist,1976,51,20.43,Maria Taylor,Union,Active
+PP065,Workers Front,Australia,Socialist,1982,145,37.51,Anna Anderson,Corporate,Active
+PP066,Democratic Party,Brazil,Conservative,1974,49,22.09,Sarah Wilson,Public Funding,Active
+PP067,People's Alliance,Italy,Green,2024,69,22.79,Jane Moore,Self-Funded,Active
+PP068,Unity Front,Brazil,Nationalist,1980,213,35.34,David Davis,Union,Active
+PP069,Republican Party,USA,Centrist,1966,73,16.61,John Brown,Public Funding,Dissolved
+PP070,Democratic Bloc,Japan,Centrist,2003,91,34.71,Maria Taylor,Public Funding,Inactive
+PP071,National Movement,Germany,Socialist,1944,258,28.73,Maria Johnson,Union,Dissolved
+PP072,Unity Movement,Brazil,Conservative,1981,219,38.92,Jane Davis,Union,Inactive
+PP073,National Party,USA,Centrist,2024,180,16.43,Maria Taylor,Self-Funded,Inactive
+PP074,Workers Bloc,France,Conservative,1923,64,29.4,Maria Moore,Union,Dissolved
+PP075,National Front,Germany,Socialist,2022,182,24.5,Jane Davis,Public Funding,Active
+PP076,People's League,Germany,Nationalist,1901,248,23.19,Mike Moore,Private Donations,Active
+PP077,Democratic Front,France,Socialist,1989,212,33.17,Jane Wilson,Private Donations,Inactive
+PP078,Freedom Party,France,Socialist,1911,61,16.57,Maria Johnson,Private Donations,Inactive
+PP079,Unity Bloc,Japan,Green,1991,20,18.66,Jane Miller,Self-Funded,Inactive
+PP080,Freedom Bloc,Brazil,Socialist,1944,32,14.99,Alex Johnson,Private Donations,Inactive
+PP081,Freedom League,Brazil,Conservative,2005,104,36.17,Sarah Miller,Public Funding,Inactive
+PP082,Unity Front,France,Nationalist,1996,17,27.7,Alex Garcia,Corporate,Active
+PP083,Unity League,France,Populist,1939,83,8.86,Lisa Davis,Union,Dissolved
+PP084,Unity Movement,India,Green,1992,150,3.57,Mike Moore,Private Donations,Dissolved
+PP085,Workers Movement,Italy,Nationalist,1978,271,5.82,John Brown,Union,Dissolved
+PP086,Unity Bloc,Italy,Socialist,1977,120,34.97,Alex Taylor,Public Funding,Dissolved
+PP087,Freedom Bloc,UK,Nationalist,1949,280,2.84,Lisa Brown,Public Funding,Inactive
+PP088,Democratic Alliance,India,Green,1919,82,20.44,Anna Garcia,Self-Funded,Active
+PP089,Green Alliance,Italy,Nationalist,1906,158,41.83,Maria Anderson,Union,Active
+PP090,Democratic Alliance,Brazil,Nationalist,1985,82,14.66,Jane Garcia,Private Donations,Inactive
+PP091,Republican Party,Germany,Green,1955,88,4.25,Tom Taylor,Private Donations,Dissolved
+PP092,Republican Bloc,UK,Green,2014,79,10.69,David Brown,Union,Active
+PP093,Workers Bloc,Japan,Conservative,1978,249,13.99,Mike Anderson,Public Funding,Dissolved
+PP094,Democratic Alliance,France,Socialist,1995,225,22.76,Anna Garcia,Public Funding,Dissolved
+PP095,Democratic Alliance,Australia,Centrist,1915,48,13.62,Alex Smith,Union,Dissolved
+PP096,Freedom Alliance,Canada,Centrist,2002,118,35.68,Mike Johnson,Corporate,Inactive
+PP097,Green Front,France,Liberal,1979,104,44.18,John Johnson,Union,Dissolved
+PP098,Green Movement,UK,Liberal,1959,165,22.71,Mike Taylor,Corporate,Active
+PP099,Unity Bloc,USA,Liberal,1933,171,5.73,Lisa Miller,Private Donations,Dissolved
+PP100,Unity Movement,Brazil,Socialist,2008,63,10.39,Sarah Miller,Corporate,Dissolved
+PP101,People's Party,USA,Centrist,1991,177,16.84,Lisa Moore,Union,Active
+PP102,Democratic Alliance,Germany,Centrist,1986,170,9.31,Lisa Brown,Self-Funded,Active
+PP103,Freedom Front,Japan,Liberal,1933,293,16.48,Mike Taylor,Union,Dissolved
+PP104,National Bloc,France,Green,1928,117,6.96,Anna Davis,Union,Dissolved
+PP105,Workers Bloc,USA,Centrist,1959,172,20.44,John Garcia,Private Donations,Inactive
+PP106,Democratic Front,Germany,Green,1923,81,10.89,Alex Brown,Corporate,Inactive
+PP107,Unity Party,Japan,Nationalist,1953,132,43.82,Sarah Brown,Private Donations,Active
+PP108,Unity Bloc,India,Conservative,2016,187,7.56,Mike Miller,Union,Dissolved
+PP109,Unity League,USA,Conservative,1930,75,20.89,Mike Garcia,Private Donations,Dissolved
+PP110,Unity Party,Italy,Populist,1979,191,43.96,Alex Garcia,Public Funding,Active
+PP111,People's Party,Canada,Nationalist,1964,245,24.19,Lisa Miller,Public Funding,Inactive
+PP112,Freedom Bloc,France,Nationalist,1979,109,37.19,John Taylor,Public Funding,Dissolved
+PP113,Green Front,Australia,Socialist,1917,275,36.86,Sarah Brown,Public Funding,Active
+PP114,People's Front,France,Socialist,1913,224,38.45,John Davis,Self-Funded,Dissolved
+PP115,National Bloc,Italy,Green,2022,173,29.51,Alex Garcia,Corporate,Dissolved
+PP116,Freedom Alliance,Australia,Nationalist,1980,158,9.12,Sarah Miller,Union,Dissolved
+PP117,Green Bloc,Australia,Socialist,1965,299,16.52,Lisa Moore,Self-Funded,Active
+PP118,Democratic Alliance,Japan,Centrist,1906,184,17.7,Lisa Garcia,Public Funding,Inactive
+PP119,National Alliance,France,Liberal,2011,65,11.79,Mike Brown,Self-Funded,Dissolved
+PP120,Freedom Movement,France,Conservative,1908,116,43.02,Alex Garcia,Private Donations,Inactive
+PP121,Workers Front,France,Centrist,1950,203,25.31,Jane Taylor,Corporate,Dissolved
+PP122,Freedom Bloc,Germany,Populist,1973,216,7.86,Maria Davis,Self-Funded,Dissolved
+PP123,National Alliance,Japan,Centrist,1943,234,44.24,Jane Smith,Union,Active
+PP124,National Movement,UK,Liberal,1991,48,5.96,Maria Miller,Public Funding,Active
+PP125,Republican Movement,USA,Conservative,1908,259,9.78,Sarah Taylor,Public Funding,Dissolved
+PP126,Democratic Bloc,Australia,Centrist,1961,297,44.38,Anna Garcia,Private Donations,Inactive
+PP127,People's Movement,UK,Centrist,1995,179,38.13,Jane Brown,Union,Dissolved
+PP128,Republican League,Germany,Liberal,1928,125,7.38,David Anderson,Corporate,Active
+PP129,Republican Alliance,USA,Centrist,1932,190,41.28,Jane Garcia,Self-Funded,Inactive
+PP130,National Party,India,Conservative,1998,266,29.32,Tom Wilson,Public Funding,Inactive
+PP131,Workers Movement,Italy,Liberal,1971,223,21.85,Jane Smith,Private Donations,Active
+PP132,Unity Movement,France,Nationalist,2007,271,32.28,John Taylor,Public Funding,Inactive
+PP133,Democratic Alliance,Italy,Liberal,1979,296,28.85,David Miller,Private Donations,Inactive
+PP134,National Party,India,Populist,1964,39,11.78,Lisa Davis,Private Donations,Active
+PP135,Unity Bloc,Germany,Populist,1979,274,41.53,Anna Miller,Self-Funded,Dissolved
+PP136,Workers Movement,Italy,Socialist,1921,101,35.0,Lisa Davis,Private Donations,Active
+PP137,Unity Alliance,Australia,Green,1930,199,13.93,Tom Taylor,Corporate,Dissolved
+PP138,National Bloc,Canada,Conservative,1956,65,6.25,Mike Brown,Union,Dissolved
+PP139,People's Front,Germany,Populist,1931,43,4.46,Anna Miller,Corporate,Active
+PP140,Workers Bloc,Japan,Socialist,1910,126,41.18,Anna Smith,Self-Funded,Inactive
+PP141,Workers Movement,USA,Socialist,2010,114,13.23,Tom Garcia,Union,Active
+PP142,Republican Alliance,Germany,Nationalist,2010,153,5.91,Alex Miller,Private Donations,Inactive
+PP143,Workers Alliance,Japan,Centrist,2004,229,33.85,John Miller,Self-Funded,Dissolved
+PP144,National Bloc,France,Green,1955,87,36.62,David Miller,Private Donations,Dissolved
+PP145,Republican Movement,France,Conservative,2009,20,16.39,Alex Wilson,Self-Funded,Active
+PP146,Republican Movement,Germany,Conservative,2004,282,6.65,Alex Brown,Self-Funded,Dissolved
+PP147,National Party,UK,Liberal,1959,245,30.09,Tom Taylor,Corporate,Active
+PP148,Freedom Movement,UK,Conservative,2008,131,9.56,Mike Anderson,Corporate,Dissolved
+PP149,National League,Germany,Liberal,1925,149,35.37,Lisa Smith,Union,Active
+PP150,Workers League,Australia,Populist,2025,275,20.7,David Brown,Private Donations,Active
+PP151,Unity Bloc,Brazil,Conservative,2013,104,16.7,John Garcia,Corporate,Inactive
+PP152,Freedom Party,Italy,Populist,1996,244,20.43,Maria Wilson,Private Donations,Dissolved
+PP153,Freedom Front,UK,Centrist,1924,101,1.98,Tom Taylor,Public Funding,Active
+PP154,Green Movement,India,Populist,1984,95,26.3,John Miller,Self-Funded,Inactive
+PP155,Freedom Bloc,UK,Conservative,1941,200,18.31,Anna Davis,Self-Funded,Inactive
+PP156,Unity Movement,Japan,Liberal,2023,92,42.41,Mike Johnson,Corporate,Active
+PP157,National Bloc,USA,Green,1922,51,9.98,Sarah Anderson,Corporate,Dissolved
+PP158,Democratic Front,Canada,Liberal,1966,244,44.9,Tom Smith,Corporate,Inactive
+PP159,Green Movement,USA,Centrist,1908,276,2.69,Jane Miller,Private Donations,Dissolved
+PP160,Republican Party,Canada,Nationalist,1988,235,23.33,Alex Miller,Corporate,Inactive
+PP161,Freedom Front,Italy,Liberal,1971,97,40.25,Maria Anderson,Union,Inactive
+PP162,Republican Party,Germany,Socialist,1953,255,2.36,Sarah Miller,Self-Funded,Dissolved
+PP163,National Alliance,Australia,Liberal,2014,187,31.23,Sarah Davis,Self-Funded,Inactive
+PP164,National Party,Italy,Liberal,2015,167,11.45,Tom Davis,Public Funding,Inactive
+PP165,Green Bloc,Canada,Populist,2010,287,39.55,Maria Davis,Union,Dissolved
+PP166,Workers Bloc,Japan,Centrist,1945,252,21.99,John Anderson,Self-Funded,Dissolved
+PP167,People's Movement,Canada,Liberal,1968,149,43.07,Lisa Johnson,Corporate,Inactive
+PP168,People's Party,Germany,Green,1945,73,43.25,Sarah Johnson,Public Funding,Inactive
+PP169,People's Movement,UK,Centrist,1983,221,2.46,Lisa Brown,Self-Funded,Active
+PP170,National Alliance,Canada,Liberal,1922,23,29.03,John Taylor,Public Funding,Active
+PP171,Republican Front,USA,Nationalist,1993,120,21.52,Mike Davis,Public Funding,Inactive
+PP172,National Alliance,Japan,Liberal,2009,265,5.57,David Anderson,Private Donations,Dissolved
+PP173,People's Party,Canada,Centrist,1978,45,15.78,Lisa Taylor,Union,Inactive
+PP174,National Party,France,Conservative,1980,85,0.81,Mike Garcia,Public Funding,Dissolved
+PP175,People's Front,Italy,Conservative,1951,239,35.08,Lisa Moore,Corporate,Active
+PP176,Democratic Movement,Australia,Centrist,2023,120,4.99,Mike Davis,Self-Funded,Active
+PP177,Freedom Front,Brazil,Liberal,1945,52,28.83,Mike Johnson,Union,Dissolved
+PP178,Green League,Brazil,Socialist,1992,251,36.7,Jane Taylor,Corporate,Active
+PP179,Democratic Movement,Japan,Centrist,1992,192,32.94,Tom Miller,Corporate,Inactive
+PP180,Unity Alliance,Italy,Green,1943,193,3.63,Sarah Garcia,Public Funding,Active
+PP181,Republican Bloc,Canada,Socialist,1973,218,32.59,Lisa Brown,Union,Inactive
+PP182,National Party,Australia,Conservative,1939,47,17.91,Alex Davis,Public Funding,Inactive
+PP183,Democratic Bloc,UK,Centrist,2014,77,40.96,Jane Davis,Corporate,Dissolved
+PP184,Republican League,Italy,Green,2008,252,13.91,Maria Taylor,Private Donations,Inactive
+PP185,Green Alliance,Japan,Socialist,1974,24,4.35,Maria Anderson,Union,Active
+PP186,Republican Alliance,Japan,Centrist,2019,33,40.87,Sarah Wilson,Private Donations,Inactive
+PP187,National Party,Canada,Liberal,1922,175,29.92,Tom Miller,Corporate,Inactive
+PP188,Workers Movement,Italy,Green,1934,265,3.1,Mike Miller,Private Donations,Active
+PP189,Green Movement,Germany,Socialist,1943,193,5.94,Alex Brown,Self-Funded,Inactive
+PP190,Green Alliance,Japan,Green,1967,130,36.74,Tom Taylor,Self-Funded,Inactive
+PP191,Green Front,Canada,Liberal,1906,191,30.42,Alex Moore,Private Donations,Active
+PP192,National Party,Germany,Liberal,1928,232,7.21,Maria Taylor,Self-Funded,Active
+PP193,National League,Canada,Populist,1916,87,30.23,Mike Anderson,Public Funding,Dissolved
+PP194,Republican Movement,Germany,Populist,1904,37,21.39,Sarah Garcia,Private Donations,Dissolved
+PP195,Freedom Movement,Brazil,Socialist,1978,19,2.67,John Taylor,Corporate,Dissolved
+PP196,Unity Front,USA,Green,1988,272,14.74,Mike Smith,Corporate,Inactive
+PP197,Republican Movement,India,Nationalist,1947,64,1.39,John Brown,Union,Active
+PP198,Unity Bloc,Australia,Centrist,1965,84,18.93,Mike Anderson,Corporate,Dissolved
+PP199,Unity League,Brazil,Populist,1942,190,32.2,David Taylor,Corporate,Dissolved
+PP200,Workers League,India,Populist,1997,195,33.76,Anna Brown,Self-Funded,Dissolved
